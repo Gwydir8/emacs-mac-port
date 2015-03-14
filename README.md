@@ -1,5 +1,7 @@
 # Emacs-Mac-Port - Borderless Mod
-Sets all frames to be borderless.
+
+- Sets all frames to be borderless.
+
 ---
 # Emacs Mac Port
 
