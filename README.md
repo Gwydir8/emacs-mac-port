@@ -1,5 +1,7 @@
 # Emacs-Mac-Port - Borderless Mod
 
+- *RETIRED* use [emacs-mac-borderless](https://github.com/Gwydir8/emacs-mac-borderless)
+
 - Sets all frames to be borderless.
 
 ---
